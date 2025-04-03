@@ -4,6 +4,9 @@ public class constructor {
     String name;int age;
     constructor(){
         System.out.println("constructor is called");
+        System.out.println("constructor");
+        System.out.println("const");
+
     }
     constructor(String n,int a){
         name=n;
@@ -16,5 +19,4 @@ public class constructor {
     public static void main(String[]args){
         constructor obj1=new constructor("Sushma",20);
         obj1.display();
-
     }}
