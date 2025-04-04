@@ -1,6 +1,6 @@
 package constructor;
 
-public class java1 {
-    public static vid main(String[]args){
+public class third {
+    public static void main(String[]args){
     System.out.println("Hello world");
 }}
